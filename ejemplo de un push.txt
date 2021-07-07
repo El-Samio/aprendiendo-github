@@ -1,0 +1,3 @@
+este archivo fue creado offline
+
+si puedo lograr añadirlo y subirlo al master en github, entonces habré aprendido algo
