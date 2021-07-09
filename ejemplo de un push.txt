@@ -3,3 +3,5 @@ este archivo fue creado offline
 si puedo lograr añadirlo y subirlo al master en github, entonces habré aprendido algo
 
 este cambio será añadido en un branch (experimental), veamos qué pasa
+
+este archivo fue editado offline, estoy viendo si tengo problemas con mi conexion y los pushes a github
